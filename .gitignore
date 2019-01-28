@@ -1,8 +1,13 @@
 # data files
 data/
 
+# jupyter notebook files
+.ipynb_checkpoints/
+
 # macOS files
 .DS_Store
 
 # python files
 *.pyc
+.ipynb_checkpoints/BainFamilyCollection_AutoCropper-checkpoint.ipynb
+.ipynb_checkpoints/BainFamilyCollection_RotateImagesFromList-checkpoint.ipynb
