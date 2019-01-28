@@ -3,3 +3,6 @@ data/
 
 # macOS files
 .DS_Store
+
+# python files
+*.pyc
